@@ -4,6 +4,10 @@ Just a Challenge html test
 
 ## Instructions
 
+Clone repo
+
+`git clone https://github.com/dsebao/acme-challenge.git`
+
 Install dependencies
 
 `npm install`
