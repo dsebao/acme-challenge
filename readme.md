@@ -20,4 +20,4 @@ Copy dependencies to the project (BS4 & jQuery)
 
 Watch changes for development
 
-`gulp`
+`npm dev`
