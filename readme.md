@@ -16,7 +16,7 @@ Install dependencies
 
 Copy dependencies to the project (BS4 & jQuery)
 
-`gulp start`
+`npm start`
 
 Watch changes for development
 
